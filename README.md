@@ -12,7 +12,7 @@ I have developed strong communication and presentation skills working as a speak
 
 I am a musician, I have released four albums in my career so far as Nothence, and an avid science fiction and horror reader, in these very genres I publish weird stories on my blog.
 
-I am bilingual, Italian and English, and I am fluent in French, German, and Spanish.
+I am bilingual, Italian and English, and I speak French, German, and Spanish.
 
 # Links
 
