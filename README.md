@@ -10,14 +10,14 @@ I am a big fan of agile project management, SCRUM in particular, as well as cont
 
 I have developed strong communication and presentation skills working as a speaker, conference presenter, classroom and e-learning instructor, and author.
 
-I am a musician, I have released four albums in my career so far as Nothence, and an avid science fiction and horror reader, in these very genres I publish weird stories on my blog.
+I am a musician, I have released four albums in my career so far as [Nothence](https://fabioscagliola.com/music), and an avid science fiction and horror reader, in these very genres I publish weird stories on my [blog]([blog](https://fabioscagliola.com/blog)).
 
 I am bilingual, Italian and English, and I speak French, German, and Spanish.
 
 # Links
 
 * [My website](https://fabioscagliola.com)
-* [My blog](https://blog.fabioscagliola.com)
+* [My blog](https://fabioscagliola.com/blog)
 * [Nothence](https://nothence.com) – my personal music project
 * [LinkedIn](https://linkedin.com/in/fabioscagliola)
 * [Instagram](https://instagram.com/fabioscagliola)
