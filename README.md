@@ -22,5 +22,5 @@ I am bilingual, Italian and English, and I speak French, German, and Spanish.
 * [Nothence](https://nothence.com) – my personal music project
 * [LinkedIn](https://linkedin.com/in/fabioscagliola)
 * [Instagram](https://instagram.com/fabioscagliola)
-* [Twitter](https://twitter.com/fabioscagliola)
+* [Substack](https://substack.com/@nothence)
 
