@@ -1,24 +1,18 @@
 # About me
 
-Since 1998 I have been working as a freelance on the design and development of enterprise software solutions for international organizations.
+I have been designing and developing enterprise software solutions since 1998, mostly through freelance and entrepreneurial roles, for a variety of international organizations. My work has spanned software architecture, full-stack development, and machine learning, often in regulated environments like medical devices.
 
-I have also specialized in data science, big data analytics, machine learning, and simulation.
+I have led teams of up to 20 people, always with a servant leadership approach, focused on enabling others to thrive and deliver their best work. I have also contributed to cultural and technical assessments as part of the recruiting process.
 
-Over the years I have been leading teams of 15-20 members including firmware engineers, software engineers, data scientists, and project managers.
+I have been active for many years as a speaker, conference presenter, classroom and e-learning instructor, and author—opportunities that have developed my communication skills and allowed me to give back to the tech community.
 
-I am a big fan of agile project management, although not particularly of Scrum, as well as continuous integration and continuous delivery.
+I am a [musician](https://nothence.com) with four released albums, and a long-time reader and [writer](https://fabioscagliola.com/blog) of science fiction.
 
-I have developed strong communication and presentation skills working as a speaker, conference presenter, classroom and e-learning instructor, and author.
-
-I am a musician, I have released four albums in my career so far as [Nothence](https://nothence.com), and an avid science fiction and horror reader, and in these very genres I publish weird stories [here](https://fabioscagliola.com/blog).
-
-I am bilingual, Italian and English, and I speak French, German, and Spanish.
+I am bilingual in English and Italian, and also speak French, German, and Spanish.
 
 # Links
 
 - [My website](https://fabioscagliola.com)
 - [Nothence](https://nothence.com) – my personal music project
-- [Instagram](https://instagram.com/fabioscagliola)
 - [LinkedIn](https://linkedin.com/in/fabioscagliola)
-- [Substack](https://substack.com/@nothence)
 
